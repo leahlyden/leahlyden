@@ -13,6 +13,7 @@ Here I experiment with:
 
 This is a learning space — not a software portfolio.
 
+More about my work and background: https://leahlyden.com
 
 <!--
 **leahlyden/leahlyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
