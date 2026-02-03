@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi, I’m Leah 👋
+
+I’m a product and go-to-market leader with experience across strategy, analytics, and platform work.
+
+- Ex-Amazon (Retail, Payments, Catalog Quality)
+- MBA, Cornell Johnson
+- Background in fintech, marketplaces, and regulated environments
+
+Here I experiment with:
+- Lightweight data analysis
+- Product thinking & workflows
+- AI-assisted tools and prototypes
+
+This is a learning space — not a software portfolio.
+
 
 <!--
 **leahlyden/leahlyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
